@@ -6,7 +6,7 @@
  token - Ваш API-ключ из личного кабинета \
  seller - Наименование вашей Организации \
  eposCode - Код в E-POS пример (111-1) \
- serviceName - Наименование оплачиваемой услуги \ 
+ serviceName - Наименование оплачиваемой услуги  
  eripPath - Путь по ветке ЕРИП
  
  <a href="https://express-pay.by/extensions/1s-enterprise/erip">Инструкция для установки и настройки</a>
